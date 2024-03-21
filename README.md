@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on [Develhope](https://www.develhope.co/en/)
 
-- 🌱 I’m currently learning **Java, Sql, (Spring cooming soon)**
+- 🌱 I’m currently learning **Java, Sql and SpringBoot**
 
 - 📫 How to reach me **manuel.basso.89@gmail.com**
 
